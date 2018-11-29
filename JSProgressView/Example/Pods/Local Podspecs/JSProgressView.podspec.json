@@ -1,0 +1,30 @@
+{
+  "name": "JSProgressView",
+  "version": "0.1.0",
+  "summary": "A short description of JSProgressView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lmg4819/JSProgressView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lmg4819": "luomengge@cheyipai.com"
+  },
+  "source": {
+    "git": "https://github.com/lmg4819/JSProgressView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "JSProgressView/Classes/**/*",
+  "dependencies": {
+    "MBProgressHUD": [
+      "~> 1.1.0"
+    ],
+    "SVProgressHUD": [
+      "~> 2.2.5"
+    ]
+  }
+}

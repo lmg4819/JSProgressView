@@ -1,0 +1,6 @@
+framework module JSProgressView {
+  umbrella header "JSProgressView-umbrella.h"
+
+  export *
+  module * { export * }
+}

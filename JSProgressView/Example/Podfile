@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JSProgressView_Example' do
+  pod 'JSProgressView', :path => '../'
+
+  target 'JSProgressView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
