@@ -1,8 +1,8 @@
 {
   "name": "JSProgressView",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A short description of JSProgressView.",
-  "description": "TODO: Add long description of the pod here.",
+  "description": "状态显示和进度条",
   "homepage": "https://github.com/lmg4819/JSProgressView",
   "license": {
     "type": "MIT",
@@ -13,12 +13,12 @@
   },
   "source": {
     "git": "https://github.com/lmg4819/JSProgressView.git",
-    "tag": "0.1.0"
+    "tag": "0.2.0"
   },
   "platforms": {
-    "ios": "9.3"
+    "ios": "9.0"
   },
-  "source_files": "JSProgressView/Classes/**/*",
+  "source_files": "JSProgressView/Classes/JSProgressView/**/*.{h,m}",
   "dependencies": {
     "MBProgressHUD": [
       "~> 1.1.0"

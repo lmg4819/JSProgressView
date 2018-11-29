@@ -1,4 +1,7 @@
-use_frameworks!
+source 'https://github.com/CocoaPods/Specs.git'
+source 'https://github.com/lmg4819/PrivateRepo.git'
+
+#use_frameworks!
 
 target 'JSProgressView_Example' do
   pod 'JSProgressView', :path => '../'
